@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ctool/static/css/main.9dbb229d.css",
-    "main.js": "/ctool/static/js/main.03a4f477.js",
+    "main.js": "/ctool/static/js/main.c95e84a1.js",
     "index.html": "/ctool/index.html"
   },
   "entrypoints": [
     "static/css/main.9dbb229d.css",
-    "static/js/main.03a4f477.js"
+    "static/js/main.c95e84a1.js"
   ]
 }
