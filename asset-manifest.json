@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ctool/static/css/main.5573a7a5.css",
-    "main.js": "/ctool/static/js/main.ef05d661.js",
+    "main.js": "/ctool/static/js/main.8c3df6ff.js",
     "static/media/ViewIcon.png": "/ctool/static/media/ViewIcon.67e0505f444c5f91e693.png",
     "index.html": "/ctool/index.html"
   },
   "entrypoints": [
     "static/css/main.5573a7a5.css",
-    "static/js/main.ef05d661.js"
+    "static/js/main.8c3df6ff.js"
   ]
 }
