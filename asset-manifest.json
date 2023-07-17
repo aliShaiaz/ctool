@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/ctool/static/css/main.b7622f9a.css",
-    "main.js": "/ctool/static/js/main.69eadf7d.js",
-    "static/media/ResetIcon.png": "/ctool/static/media/ResetIcon.cdd8ad058a4995fd2181.png",
+    "main.css": "/ctool/static/css/main.ccafb094.css",
+    "main.js": "/ctool/static/js/main.99ad833c.js",
     "static/media/ViewIcon.png": "/ctool/static/media/ViewIcon.67e0505f444c5f91e693.png",
     "index.html": "/ctool/index.html"
   },
   "entrypoints": [
-    "static/css/main.b7622f9a.css",
-    "static/js/main.69eadf7d.js"
+    "static/css/main.ccafb094.css",
+    "static/js/main.99ad833c.js"
   ]
 }
